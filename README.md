@@ -18,6 +18,7 @@ Software Requirements -
 5. An Android license for SDK
 
 Interface wil be like this - 
+
 ![image](https://github.com/tejas-shigwan/Grocery-Shop-Flutter/assets/132420876/1f62b2f4-f7c8-47f8-bf44-9e1fbe630d2c)
 ![image](https://github.com/tejas-shigwan/Grocery-Shop-Flutter/assets/132420876/a3de1cd3-b2b8-40af-9c85-30cfcc7f05ef)
 ![image](https://github.com/tejas-shigwan/Grocery-Shop-Flutter/assets/132420876/c5a35ccc-9993-48f2-b912-4c30c7c28923)
