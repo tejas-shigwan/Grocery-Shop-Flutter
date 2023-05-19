@@ -1,5 +1,20 @@
-# 🥑📱 GROCERY SHOP APP x FLUTTER
+🥑📱 GROCERY SHOP APP x FLUTTER
 
-Watch tutorial here: https://youtu.be/uSljGJGSl6w
+Details of Software & Hardware -
 
-![53AC0750-FB81-4C11-9349-448E7FC4717E](https://user-images.githubusercontent.com/29016489/202695738-b37d8ffe-a2c7-41fb-9719-b032bb1ab8c4.JPG)
+Hardware Requirements -
+Minimum 8gb Ram required for Andriod SDK
+2gb Disk Space for Flutter Environment Installation.
+Usb Cable for debugging
+An Android Device for testing the product with developer options.
+
+
+Software Requirements -
+
+Operating system Windows 10 or above
+Android studio
+Visual Studio
+Visual Studio Code
+An Android license for SDK
+
+
