@@ -2,19 +2,19 @@
 
 Details of Software & Hardware -
 
-Hardware Requirements -
-Minimum 8gb Ram required for Andriod SDK
-2gb Disk Space for Flutter Environment Installation.
-Usb Cable for debugging
-An Android Device for testing the product with developer options.
+1. Hardware Requirements -
+2. Minimum 8gb Ram required for Andriod SDK
+3. 2gb Disk Space for Flutter Environment Installation.
+4. Usb Cable for debugging
+5. An Android Device for testing the product with developer options.
 
 
 Software Requirements -
 
-Operating system Windows 10 or above
-Android studio
-Visual Studio
-Visual Studio Code
-An Android license for SDK
+1. Operating system Windows 10 or above
+2. Android studio
+3. Visual Studio
+4. Visual Studio Code
+5. An Android license for SDK
 
 
